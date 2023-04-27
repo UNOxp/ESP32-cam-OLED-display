@@ -12,6 +12,7 @@ ESP32-cam (Vcc) = OLED (Vcc)
 
 ESP32-cam (Gnd) = OLED (Gnd)
 
+To get original code, in your Arduino IDE go to: File > Examples > ESP32 > Camera > CameraWebServer
 
 Photos!:
 
