@@ -4,13 +4,13 @@ So, this is an edited ESP32-cam code with the addition of an OLED display functi
 
 Connection diagram:
 
-ESP32-com (pin 14) = OLED (SDA)
+ESP32-cam (pin 14) = OLED (SDA)
 
-ESP32-com (pin 15) = OLED (SCL/SCK)
+ESP32-cam (pin 15) = OLED (SCL/SCK)
 
-ESP32-com (Vcc) = OLED (Vcc)
+ESP32-cam (Vcc) = OLED (Vcc)
 
-ESP32-com (Gnd) = OLED (Gnd)
+ESP32-cam (Gnd) = OLED (Gnd)
 
 
 Photos!:
